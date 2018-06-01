@@ -1,0 +1,3 @@
+[submodule "lib/datadogstatsd"]
+	path = lib/datadogstatsd
+	url = https://github.com/DataDog/php-datadogstatsd.git
