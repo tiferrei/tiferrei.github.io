@@ -1,0 +1,3 @@
+http://* https://:splat 301
+https://tiferrei.com https://www.tiferrei.com 301
+https://tiferrei.com/* https://www.tiferrei.com/:splat 301
